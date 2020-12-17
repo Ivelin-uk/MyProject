@@ -1,0 +1,120 @@
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td,
+#customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#customers tr:hover {
+    background-color: #ddd;
+}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+#task1 table {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+#task1 table :nth-child(1) {
+    width: 50%;
+}
+
+#task1 table :nth-child(2) {
+    width: 50%;
+    text-align: center;
+}
+
+#task2 table {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+#task2 table :nth-child(1) {
+    width: 30%;
+}
+
+#task2 table :nth-child(2) {
+    width: 35%;
+}
+
+#task2 table :nth-child(2) {
+    width: 35%;
+}
+
+#task3 {
+    width: 100%;
+    margin: auto;
+}
+
+#mounths {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    margin: auto;
+    font-size: x-large;
+}
+
+#mounths th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+#mounths th,
+td {
+    text-align: center;
+    border: 2px solid #ddd;
+    padding: 8px;
+}
+
+#currentMounth {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#task7 table {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+#task7 table th,
+td {
+    text-align: center;
+}
+
+#task6 table {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}

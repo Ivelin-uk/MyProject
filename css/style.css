@@ -1,0 +1,49 @@
+#nav {
+    margin-bottom: 25px;
+}
+
+#nav h1 {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    background-color: #4CAF50;
+}
+
+.vertical-menu {
+    width: 500px;
+    margin: auto;
+}
+
+.vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc;
+}
+
+.vertical-menu a.active {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: ghostwhite;
+    color: white;
+    text-align: center;
+}
+
+#selectOpp {
+    width: 500px;
+    margin: auto;
+}
